@@ -1,2 +1,2 @@
-# linkdumper
-Quick site link dumper
+# Linkdumper
+Quick page link dumper
